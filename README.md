@@ -1,2 +1,1 @@
 # Resume
-# congenial-octo-lamp
