@@ -4,7 +4,7 @@ Analyst with 5+ years of experience in data integration. Involved in all stages 
 SKILLS
 Languages: SQL, Python, R, Shell scripting
 Databases: Teradata, Metabase, MySQL, SQLite, PostgreSQL, MongoDB, Cassandra
-Tools: Service Now ITSM, Teradata Viewpoint, NetVault, DataStage, WinSCP, Tableau, Excel, Outlook, Gitlab, GIT
+Tools: Service Now ITSM, Teradata Viewpoint, NetVault, DataStage, WinSCP, Tableau, Excel, Outlook, Gitlab, GIT, GITHUB
 Operating System: Unix HP-UX, Window Server, Linux
 PROFESSIONAL EXPERIENCE
 Analyst, Public Health Agency of Canada, Ontario, Canada Mar 2021 –Present • Reviewed, pushed, merged code and software updates via Gitlab in response to the evolving data needs. • Refined and extended the functionality of the existing R implementation to incorporate additional data sources. • Cleaned and mapped raw data in R as per business requirements for the epidemiology reporting. • Developed R scripts to web scrape publicly reported COVID case counts from official PT websites. • Responsible for preparation, production, and creation of metadata and related documentation to explain the data produced for clients. • Performed thorough data validation and data quality checks. • Identified back-end data issues performed root cause analysis and provided optimal solutions. • Monitored failure logs in Metabase and resolved them within minimum turnaround time. • Supported various surveillance and operational tasks related to the federal COVID-19 response in Canada. • Collaborated with other COVID-19 teams’ troubleshot issues and brought them to resolution within minimum turn-around time. • Mentored new resources on the team.
